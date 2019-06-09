@@ -3,7 +3,7 @@
 
 (defn app
   []
-  [:div "Cheffy"])
+  [:div "Cheffy - AirBnb for Chefs"])
 
 (defn ^:dev/after-load start
   []

@@ -5,7 +5,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/jacekschae/learn-re-frame-course-files"
+    "url": "https://github.com/abhi18av/cheffy-airbnb-for-chefs"
   },
   "scripts": {
     "dev": "shadow-cljs watch app",
