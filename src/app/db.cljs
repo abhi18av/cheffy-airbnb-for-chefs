@@ -287,7 +287,8 @@
                                                     :inboxes {"mike@mailinator.com" {:id :inbox-02
                                                                                      :notifications 6
                                                                                      :updated-at 1538697210537}}}}})
+
 (rf/reg-event-db
  :initialize-db
- (fn [_ _ ]
-   (initial-app-db)))
+ (fn [_ _]
+   initial-app-db))
